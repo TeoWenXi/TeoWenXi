@@ -1,5 +1,5 @@
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Flower Petals on Left">
+<picture align="left"><img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Left Sakura Petals"></picture>
 <!-- Flower Petals on Right -->
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Flower Petals on Right">
 </div>
