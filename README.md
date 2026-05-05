@@ -5,12 +5,13 @@
   <!--- Right --->
   <picture><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Right Sakura Petals"></picture>
 </div>
+<!--- End of Flowers --->
 
 <!--- Title --->
-### <p style="font-size100px">Test</p>
-## Hey there👋, I'm Wen Xi
+<h1 align="center"> Hey there👋, I'm Wen Xi </h1>
+<!--- End of Title --->
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture>
 
 ### Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeoWenXi&show_icons=true&theme=merko)
