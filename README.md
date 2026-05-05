@@ -4,6 +4,8 @@
 ### Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeoWenXi&show_icons=true&theme=merko)
 
+![snake gif](https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg)
+
 #
 <!--
 **TeoWenXi/TeoWenXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
