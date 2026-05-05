@@ -6,6 +6,7 @@
 
 ## Hi there 👋
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeoWenXi&show_icons=true&theme=merko)
