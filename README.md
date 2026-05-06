@@ -14,8 +14,9 @@
 <!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
-<h3>Github Stats 📊</h3>
-<picture><img src="/imgs/metrics.plugin.languages.details.svg" alt="Metrics"></picture>
+<h3 style="font-size: 150;">📊 Github Stats</h3>
+<picture><img src="https://raw.githubusercontent.com/TeoWenXi/github-stats-transparent/output/generated/overview.svg"></picture>
+<picture><img src="https://raw.githubusercontent.com/TeoWenXi/github-stats-transparent/output/generated/languages.svg"></picture>
 
 <!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
