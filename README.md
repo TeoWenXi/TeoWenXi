@@ -14,7 +14,7 @@
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture>
 
 ### Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeoWenXi&show_icons=true&theme=merko)
+<picture><img src="/metrics.plugin.languages.details.svg" alt="Metrics"></picture>
 
 ![snake gif](https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg)
 
