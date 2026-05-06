@@ -13,10 +13,10 @@
 
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture>
 
-### Stats 📊
+<h3>Stats 📊</h3>
 <picture><img src="/imgs/metrics.plugin.languages.details.svg" alt="Metrics"></picture>
 
-## Contributions
+<h3>Contributions 📈</h3>
 ![snake gif](https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg)
 
 <!--
