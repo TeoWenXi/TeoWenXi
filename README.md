@@ -11,10 +11,14 @@
 <h1 align="center"> Hey there👋, I'm Wen Xi </h1>
 <!--- End of Title --->
 
-<picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture>
+<!--- Rainbow Breakline --->
+<picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
-<h3>Stats 📊</h3>
+<h3>Github Stats 📊</h3>
 <picture><img src="/imgs/metrics.plugin.languages.details.svg" alt="Metrics"></picture>
+
+<!--- Rainbow Breakline --->
+<picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
 <h3>Contributions 📈</h3>
 ![snake gif](https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg)
