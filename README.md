@@ -10,6 +10,15 @@
 <!--- Title --->
 <h1 align="center"> Hey there👋, I'm Wen Xi </h1>
 
+<!--- Brief Description --->
+<div align="center">
+  <h3>Digital Craftsman</h3>
+</div>
+
+<div align="center">
+👾 Game Developer / ⚙️ Software Engineer / 📈 Data Analyst
+</div>
+
 <!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
@@ -33,7 +42,7 @@
 <div id ="toc">
   <ul style="list-style: none">
     <summary>
-      <h2>📈 Contributions</h2>
+      <h2>🌳 Contributions</h2>
     </summary>
     <p>
         <picture><img src="https://raw.githubusercontent.com/TeoWenXi/TeoWenXi/refs/heads/output/github-snake-dark.svg"></picture>
