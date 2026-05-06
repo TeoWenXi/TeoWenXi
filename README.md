@@ -16,9 +16,9 @@
 ### Stats 📊
 <picture><img src="/imgs/metrics.plugin.languages.details.svg" alt="Metrics"></picture>
 
+## Contributions
 ![snake gif](https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg)
 
-#
 <!--
 **TeoWenXi/TeoWenXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
