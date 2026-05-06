@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-👾 Game Developer | ⚙️ Software Engineer
+👾 Game Developer, ⚙️ Software Engineer
 </div>
 <!---/ 📈 Data Analyst--->
 
