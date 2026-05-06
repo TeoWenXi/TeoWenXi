@@ -36,7 +36,7 @@
       <h2>📈 Contributions</h2>
     </summary>
     <p>
-        <picture><img src="https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg"></picture>
+        <picture><img src="https://raw.githubusercontent.com/TeoWenXi/TeoWenXi/refs/heads/output/github-snake-dark.svg"></picture>
     </p>
   </ul>
 </div>
