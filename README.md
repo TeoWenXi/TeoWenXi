@@ -16,8 +16,9 @@
 </div>
 
 <div align="center">
-👾 Game Developer / ⚙️ Software Engineer / 📈 Data Analyst
+👾 Game Developer | ⚙️ Software Engineer
 </div>
+<!---/ 📈 Data Analyst--->
 
 <!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
