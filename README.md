@@ -1,28 +1,45 @@
 <!--- Flowers --->
 <div>
   <!--- Left --->
-  <picture><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Left Sakura Petals"></picture>
+  <picture><img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"></picture>
   <!--- Right --->
-  <picture><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Right Sakura Petals"></picture>
+  <picture><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"></picture>
 </div>
 <!--- End of Flowers --->
 
 <!--- Title --->
 <h1 align="center"> Hey there👋, I'm Wen Xi </h1>
-<!--- End of Title --->
 
 <!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
-<h3 style="font-size: 150;">📊 Github Stats</h3>
-<picture><img src="https://raw.githubusercontent.com/TeoWenXi/github-stats-transparent/output/generated/overview.svg"></picture>
-<picture><img src="https://raw.githubusercontent.com/TeoWenXi/github-stats-transparent/output/generated/languages.svg"></picture>
+<!--- Stats --->
+<div id ="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>📊 Github Stats</h2>
+    </summary>
+    <p>
+        <picture><img src="https://raw.githubusercontent.com/TeoWenXi/github-stats-transparent/output/generated/overview.svg"></picture>
+        <picture><img src="https://raw.githubusercontent.com/TeoWenXi/github-stats-transparent/output/generated/languages.svg"></picture>
+    </p>
+  </ul>
+</div>
 
 <!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
-<h3>Contributions 📈</h3>
-![snake gif](https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg)
+<!--- Contributions Snake --->
+<div id ="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>📈 Contributions</h2>
+    </summary>
+    <p>
+        <picture><img src="https://github.com/TeoWenXi/TeoWenXi/blob/output/github-snake-dark.svg"></picture>
+    </p>
+  </ul>
+</div>
 
 <!--
 **TeoWenXi/TeoWenXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
