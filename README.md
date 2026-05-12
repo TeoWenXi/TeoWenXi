@@ -21,6 +21,27 @@
 <!---/ 📈 Data Analyst--->
 
 <!--- Rainbow Breakline --->
+<picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture>
+
+<!--- Languages & Tools --->
+<div id ="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>🛠️ Languages & Tools</h2>
+    </summary>
+  </ul>
+</div>
+
+<h3>Game Development & Graphics</h3>
+test
+
+<h3>AI & Data Science</h3>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+<h3>Development Tools & DevOps</h3>
+Lorem Ipsum
+
+<!--- Rainbow Breakline --->
 <picture><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></picture> 
 
 <!--- Stats --->
