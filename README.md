@@ -52,7 +52,7 @@
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
 [![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?style=for-the-badge&logo=OpenGl&logoColor=fff)](#)
 [![GLSL](https://img.shields.io/badge/GLSL-44CC11?style=for-the-badge&logo=opengl&logoColor=white)](#)
-![Custom Engines](https://img.shields.io/badge/Custom_Engines-FFD700?style=for-the-badge&logo=gamemaker&logoColor=black)
+![Custom Engines](https://img.shields.io/badge/Custom_Engines-FFD700?style=for-the-badge)
 
 ### AI & Data Science
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
