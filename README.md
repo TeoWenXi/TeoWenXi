@@ -27,7 +27,7 @@
 
 🍎 **Focus:** Working on **my life and personal growth**
   
-🍊 **Learning:** Exploring the **Japanese language**
+🍊 **Learning:** Exploring the **Game Development & Japanese language**
 
 ✨ **Interests:** Talk to me about **Game Dev & Design | Software Engineering**
 
